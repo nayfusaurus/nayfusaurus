@@ -1,3 +1,5 @@
+---
+
 ```mermaid
 classDiagram
     Sufyan <|-- Software Engineer
@@ -36,3 +38,5 @@ classDiagram
     }
     
 ```
+
+---
