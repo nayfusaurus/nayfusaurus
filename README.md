@@ -34,4 +34,5 @@ classDiagram
       +starcraft()
       +company_of_heroes()
     }
-    ```
+    
+```
