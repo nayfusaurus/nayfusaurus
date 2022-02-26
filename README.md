@@ -1,3 +1,36 @@
-### Hi there 👋
-
-[![](https://mermaid.ink/img/pako:eNp9U81u1DAQfhXLJ1BbcY-4IFpxKRf2GimajSdZt_ZMZDu7ispKFRdOCHGESy-o4sAD7PP0BegjMAqbNGQXLFkaf_ONv_mxb3TJBnWmSwcxnluoA_iclKxFW3VA6uX7szO14CptIKC6oNoSYjikvO6WGCKWbbCpe4cRIZSrY8S3vLQOz3GNjptjhDfgZ3CmTlb4YmW9ery73z3cfnr4-uHX7rOcvvyQ0-Pdt1uxv9-Pnnl0yS2l0Anp4072z_8Y81DPZK8xKIKuaiO0oY1TijBsfLXByB6fPT_w9LUc4M5WeMlUX0qTyFI9EPohjM0een3zx6nUySIFYSuDa27iiJJM8CoOdwhgroBqngAOlmuLmwHZTtX-Mbcn0SWzUzYWbp_s6ICmKYbAiZjv53vM0yAVCWOaVPxXKrOXcZjCxjozgpanNQOZwNZMkIBQpoIg2TUeletn8yRSI8kDjylAwrob4cQJXCHzmFwdkzQpQJUmWMm-AeoKrgppH2OcaQ5Ln2qR9WCN_LpePddphR5znYlpIFznOqet8NrGSC4XxiYOOqvARTzV0CZedFTqLIUWB9L-5-5Z29--sVGa)](https://mermaid.live/edit#pako:eNp9U81u1DAQfhXLJ1BbcY-4IFpxKRf2GimajSdZt_ZMZDu7ispKFRdOCHGESy-o4sAD7PP0BegjMAqbNGQXLFkaf_ONv_mxb3TJBnWmSwcxnluoA_iclKxFW3VA6uX7szO14CptIKC6oNoSYjikvO6WGCKWbbCpe4cRIZSrY8S3vLQOz3GNjptjhDfgZ3CmTlb4YmW9ery73z3cfnr4-uHX7rOcvvyQ0-Pdt1uxv9-Pnnl0yS2l0Anp4072z_8Y81DPZK8xKIKuaiO0oY1TijBsfLXByB6fPT_w9LUc4M5WeMlUX0qTyFI9EPohjM0een3zx6nUySIFYSuDa27iiJJM8CoOdwhgroBqngAOlmuLmwHZTtX-Mbcn0SWzUzYWbp_s6ICmKYbAiZjv53vM0yAVCWOaVPxXKrOXcZjCxjozgpanNQOZwNZMkIBQpoIg2TUeletn8yRSI8kDjylAwrob4cQJXCHzmFwdkzQpQJUmWMm-AeoKrgppH2OcaQ5Ln2qR9WCN_LpePddphR5znYlpIFznOqet8NrGSC4XxiYOOqvARTzV0CZedFTqLIUWB9L-5-5Z29--sVGa)
+classDiagram
+    Sufyan <|-- Software Engineer
+    Sufyan <|-- CybersecurityResearcher
+    Sufyan <|-- MobileDeveloper
+    Sufyan <|-- Gamer
+    Sufyan : +he/him 🦸‍♂️ 👨‍🚀 🤦‍♂️
+    Sufyan : +country 🇸🇬 🇸🇬 🇸🇬 🇸🇬
+    Sufyan : +moniker nayfusaurus
+    Sufyan: +isAwesome()
+    Sufyan: +isGamer()
+    Sufyan: +lifeLongLearning()
+    class SoftwareEngineer{
+      +String devops
+      +nodejs()
+      +django()
+      +labview()
+    }
+    class CybersecurityResearcher{
+      +bool is_learning
+      +app_security()
+      +mobile_security()
+      +pen_testing()
+    }
+    class MobileDeveloper{
+      +bool is_wild
+      +ios()
+      +android()
+      +react_native()
+    }
+    class Gamer{
+      +genre strategy
+      +total_war()
+      +starcraft()
+      +company_of_heroes()
+    }
+            
