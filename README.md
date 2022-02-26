@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     Sufyan <|-- Software Engineer
     Sufyan <|-- CybersecurityResearcher
@@ -33,4 +34,4 @@ classDiagram
       +starcraft()
       +company_of_heroes()
     }
-            
+    ```
