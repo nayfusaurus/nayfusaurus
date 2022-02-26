@@ -1,4 +1,4 @@
----
+
 
 ```mermaid
 classDiagram
@@ -38,5 +38,3 @@ classDiagram
     }
     
 ```
-
----
