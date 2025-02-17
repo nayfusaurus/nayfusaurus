@@ -2,6 +2,7 @@
 
 ```mermaid
 classDiagram
+    class Sufyan["nayfusaurus.github.io"]
     Sufyan <|-- Software Engineer
     Sufyan <|-- CybersecurityResearcher
     Sufyan <|-- MobileDeveloper
@@ -12,7 +13,8 @@ classDiagram
     Sufyan: +isAwesome()
     Sufyan: +isGamer()
     Sufyan: +lifeLongLearning()
-    Sufyan: <a href='https://nayfusaurus.github.io/'>nayfusaurus.github.io</a>
+    link Sufyan "[https://www.github.com](https://nayfusaurus.github.io/)" "Personal Website"
+
     class SoftwareEngineer{
       +String devops
       +nodejs()
