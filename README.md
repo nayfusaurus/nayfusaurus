@@ -12,6 +12,7 @@ classDiagram
     Sufyan: +isAwesome()
     Sufyan: +isGamer()
     Sufyan: +lifeLongLearning()
+    Sufyan: <a href='https://nayfusaurus.github.io/'>nayfusaurus.github.io</a>
     class SoftwareEngineer{
       +String devops
       +nodejs()
