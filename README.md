@@ -26,7 +26,7 @@ Curious builder who loves tinkering with code across different domains.
 
 - 🏗️ **[Tech Debtor](https://github.com/nayfusaurus/tech-debtor)** - CLI tool that analyzes Python projects for technical debt | Prioritized reports with remediation estimates
 - 🎵 **[Maestro](https://github.com/nayfusaurus/maestro-keypress)** - Auto-play MIDI songs on in-game pianos | Heartopia & Where Winds Meet
-- 🐽 **[Classifry](https://github.com/nayfusaurus/spam-and-ham-classifier)** - Neural network-based email spam classifier | Built with PyTorch
+- 🐽 **[Classifry](https://github.com/nayfusaurus/classifry)** - Neural network-based email spam classifier | Built with PyTorch
 - 🚀 **[Asteroidia](https://github.com/nayfusaurus/asteroidia)** - Super simplistic version of Asteroids | A pygame learning project
 - 📖 **[nayfusaurus](https://github.com/nayfusaurus/nayfusaurus.github.io)** - Personal blog, docs & anecdotes | Powered by Jekyll
 
