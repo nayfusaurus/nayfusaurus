@@ -1,6 +1,6 @@
 # Hey, I'm Sufyan (nayfusaurus) 👋
 
-🌏 Cyber Security Software Engineer from Singapore 🛡️
+🌏 Cyber Security + AI + Software Engineer from Singapore 🛡️
 
 Curious builder who loves tinkering with code across different domains.
 
@@ -24,12 +24,13 @@ Curious builder who loves tinkering with code across different domains.
 ## Current Projects
 
 
+- 📖 **[nayfusaurus](https://nayfusaurus.github.io/)** - Personal blog, docs & anecdotes | Powered by Jekyll
+- 📄 **[papers-kb](https://github.com/nayfusaurus/papers-kb)** - RAG learning project using arxiv paper descriptions | Vector-based retrieval without the full papers
 - 🏗️ **[Tech Debtor](https://github.com/nayfusaurus/tech-debtor)** - CLI tool that analyzes Python projects for technical debt | Prioritized reports with remediation estimates
 - 🎵 **[Maestro](https://github.com/nayfusaurus/maestro-keypress)** - Auto-play MIDI songs on in-game pianos | Heartopia & Where Winds Meet
 - 🐽 **[Classifry](https://github.com/nayfusaurus/classifry)** - Neural network-based email spam classifier | Built with PyTorch
 - 🔤 **[Bitfont](https://github.com/nayfusaurus/bitfont)** - Render text as copyable pixel art in your terminal | Unicode block characters
 - 🚀 **[Asteroidia](https://github.com/nayfusaurus/asteroidia)** - Super simplistic version of Asteroids | A pygame learning project
-- 📖 **[nayfusaurus](https://github.com/nayfusaurus/nayfusaurus.github.io)** - Personal blog, docs & anecdotes | Powered by Jekyll
 
 
 ## Interests/Hobbies
